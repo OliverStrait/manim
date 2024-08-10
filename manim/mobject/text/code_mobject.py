@@ -202,7 +202,7 @@ class Code(VGroup):
             background_stroke_width=1,
             background_stroke_color=WHITE,
             insert_line_no=True,
-            style="emacs",
+            style=Code.styles_list[15],
             background="window",
             language="cpp",
         )

@@ -5,6 +5,8 @@ import numpy as np
 CODE_1 = """\
 def test()
     print("Hi")
+    for i in out:
+        print(i, "see you")
 """
 
 IDENTATION_CHAR = "    "
